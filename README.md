@@ -1,2 +1,5 @@
-# story
-some (un)interesting stories
+# writings
+
+本仓库中为我自己写的故事和各种文字。百无禁忌，中英文/虚构非虚构不拘。以自己开心为准。
+
+如果有文字斟酌之处欢迎 issue / pull request, 我会十分高兴的。
